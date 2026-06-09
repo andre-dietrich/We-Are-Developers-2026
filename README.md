@@ -44,7 +44,7 @@ __How Developers Actually Use Documentation__
 
 ### Example: Before AI There Was AI
 
-![](/assets/img/tensorflow-js-logo-social.png)
+![Tensorflow logo](/assets/img/tensorflow-js-logo-social.png)
 
 Example: https://github.com/tensorflow/tfjs
 
