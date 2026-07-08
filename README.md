@@ -172,7 +172,7 @@ model.predict(tf.tensor2d([20], [1, 1])).print();
 
 ## Perfct World #2
 
-Russa started its 3 week war Ukraine
+Russia started its 3 week war Ukraine
 <script format="relativetime" unit="days">
 const start = new Date("2022-02-04")
 const today = new Date()
